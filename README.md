@@ -1,5 +1,5 @@
 # telegram-version-check
-Ugly telegram version checker.
+An ugly, rudimentary Telegram client version checker.
 
 
 ## Install
@@ -11,9 +11,9 @@ node index.js
 ```
 
 ## Configuration
-1. Open the example configuration file `config.example.json`
-2. make the changes you wish, ensure to change the bot token.
-3. save the file as: `config.json`
+1. Open the example configuration file [`config.example.json`](https://github.com/lkd70/telegram-version-check/blob/master/config.example.json)
+2. Make the changes you wish and ensure to **change the bot token**.
+3. Save the file as: `config.json`
 
 ## Contact
 https://t.me/LKD70
