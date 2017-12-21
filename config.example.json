@@ -5,8 +5,8 @@
             "minor": 6,
             "patch": 0,
             "messages": {
-                "short_text": "android update available",
-                "long_text": "An android update is available.\nVersion: {major}_{minor}_{patch} is available to download <a href='{link}'>here</a>"
+                "short_text": "Android update available",
+                "long_text": "An update for Telegram's Android client is available.\nVersion: {major}_{minor}_{patch} is available to download here: <a href='{link}'>here</a>"
             },
             "link": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
         },
@@ -15,8 +15,8 @@
             "minor": 6,
             "patch": 0,
             "messages": {
-                "short_text": "ios update available",
-                "long_text": "An ios update is available.\nVersion: {major}_{minor}_{patch} is available to download <a href='{link}'>here</a>"
+                "short_text": "iOS update available",
+                "long_text": "An update for Telegram's iOS client is available.\nVersion: {major}_{minor}_{patch} is available to download here: <a href='{link}'>here</a>"
             },
             "link": "https://itunes.apple.com/app/telegram-messenger/id686449807"
         },
@@ -25,8 +25,8 @@
             "minor": 5,
             "patch": 7,
             "messages": {
-                "short_text": "web update available",
-                "long_text": "A web update is available.\nVersion: {major}_{minor}_{patch} is available to download <a href='{link}'>here</a>"
+                "short_text": "Webogram update available",
+                "long_text": "An update for the Telegram Web client is available.\nVersion: {major}_{minor}_{patch} is available to download here: <a href='{link}'>here</a>"
             },
             "link": "https://web.telegram.org"
         },
@@ -35,8 +35,8 @@
             "minor": 2,
             "patch": 3,
             "messages": {
-                "short_text": "desktop update available",
-                "long_text": "A desktop update is available.\nVersion: {major}_{minor}_{patch} is available to download <a href='{link}'>here</a>"
+                "short_text": "Desktop update available",
+                "long_text": "An update for the Telegram Desktop client is available.\nVersion: {major}_{minor}_{patch} is available to download here: <a href='{link}'>here</a>"
             },
             "link": "https://desktop.telegram.org"
         },
@@ -46,7 +46,7 @@
             "patch": 0,
             "messages": {
                 "short_text": "mac update available",
-                "long_text": "A mac update is available.\nVersion: {major}_{minor}_{patch} is available to download <a href='{link}'>here</a>"
+                "long_text": "An update for Telegram's macOS client available.\nVersion: {major}_{minor}_{patch} is available to download here: <a href='{link}'>here</a>"
             },
             "link": "https://macos.telegram.org"
         }
@@ -61,11 +61,11 @@
         },
         "undefined": {
             "short_text": "Please provide a version number",
-            "long_text": "Please provide a version number to check."
+            "long_text": "Please provide a version number to check with."
         },
         "uptodate": {
             "short_text": "Up to date",
-            "long_text": "Your version appears to be up to date."
+            "long_text": "Your provided version appears to be up to date."
         }
     }
 }
